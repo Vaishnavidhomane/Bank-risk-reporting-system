@@ -1,0 +1,4 @@
+loan_id,customer_id,loan_amount,due_date,status
+2,2,120000.00,2026-05-15,overdue
+4,4,80000.00,2026-04-01,overdue
+6,6,60000.00,2026-03-20,overdue
